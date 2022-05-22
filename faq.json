@@ -1,0 +1,12 @@
+{"netxos": "NetX OS is discontinued. The last release, NetX OS 5, is available at https://scratch.mit.edu/projects/432333814/embed, but is no longer recieving updates or support",  
+"help": "Type !faq index to see all commands",
+"about": "Learn more about me at https://github.com/fire219/pine-faq-bot, I'm here to fill in for JoshAtticus when he's unavailable",
+"twistexos": "twsistexOS has currently been delayed, and another build isn't expected for a while, you can try the first beta build at https://scratch.mit.edu/projects/651244186/embed", 
+"github": "You can visit JoshAtticus at https://github.com/JoshAtticus, or the OSMANiCTeam at https://github.com/OSMANiCTeam",
+"osmanic": "OSMANiC Inc is a company founded by JoshAtticus, with the intention of creating useful and privacy respecting gadgets for your everyday life. More info at https://home.osmanic.co",
+"meower": "Meower Media Co's intention is to make a social media for scratchers",
+"os": "I believe JoshAtticus uses Zorin OS 16.1 Core, a Ubuntu-based Linux distro.",
+"wrong": "Whoops, that's no good, please let JoshAtticus know what the problem is, that way he can fix me",
+"correct": "Thanks for the feedback, but as I have no way of tracking it, you're better off letting JoshAtticus know",
+"download netxos": "Here's a download link to NetX OS 5 https://github.com/JoshAtticus/faqbot-files/raw/main/NetX%20OS%205%20(Discontinued).sb3",
+"download twistexos": "Here's a download link to twistexOS Beta Build 001 https://github.com/JoshAtticus/faqbot-files/raw/main/NetX%20OS%206%20Beta%20Build%20001.sb3"}
