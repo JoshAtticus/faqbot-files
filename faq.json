@@ -12,4 +12,5 @@
 "download twistexos": "Here's a download link to twistexOS Beta Build 001 https://github.com/JoshAtticus/faqbot-files/raw/main/NetX%20OS%206%20Beta%20Build%20001.sb3",
 "test": "HelpBot is online and functional! If you suspect something is wrong, let JoshAtticus know",
 "hi": "Hi there! Type !faq index to see what I can do",
-"hello": "Hello! Type !faq index to see what I can do"}
+"hello": "Hello! Type !faq index to see what I can do",
+"ping joshatticus": "@JoshAtticus"}
