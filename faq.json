@@ -1,7 +1,7 @@
-{"netxos": "NetX OS is discontinued. The last release, NetX OS 5, is available at https://scratch.mit.edu/projects/432333814/embed, but is no longer recieving updates or support",  
+{"netxos": "NetX OS is discontinued. The last release, NetX OS 5, is available at https://turbowarp.org/432333814/fullscreen, but is no longer recieving updates or support",  
 "help": "Type !faq index to see all commands",
 "about": "Learn more about me at https://github.com/fire219/pine-faq-bot, I'm here to fill in for JoshAtticus when he's unavailable",
-"twistexos": "twsistexOS has currently been delayed, and another build isn't expected for a while, you can try the first beta build at https://scratch.mit.edu/projects/651244186/embed", 
+"twistexos": "twsistexOS has currently been delayed, and another build isn't expected for a while, you can try the first beta build at https://turbowarp.org/651244186/fullscreen?hqpen", 
 "github": "You can visit JoshAtticus at https://github.com/JoshAtticus, or the OSMANiCTeam at https://github.com/OSMANiCTeam",
 "osmanic": "OSMANiC Inc is a company founded by JoshAtticus, with the intention of creating useful and privacy respecting gadgets for your everyday life. More info at https://home.osmanic.co",
 "meower": "Meower Media Co's intention is to make a social media for scratchers",
@@ -13,4 +13,4 @@
 "test": "HelpBot is online and functional! If you suspect something is wrong, let JoshAtticus know",
 "hi": "Hi there! Type !faq index to see what I can do",
 "hello": "Hello! Type !faq index to see what I can do",
-"ping joshatticus": "@JoshAtticus"}
+"ping joshatticus": "Sorry, this user has disabled pings from me. You can still ping this user manually, unless they have blocked you."}
