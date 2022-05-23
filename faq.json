@@ -13,4 +13,4 @@
 "test": "HelpBot is online and functional! If you suspect something is wrong, let JoshAtticus know",
 "hi": "Hi there! Type !faq index to see what I can do",
 "hello": "Hello! Type !faq index to see what I can do",
-"ping joshatticus": "Sorry, this user has disabled pings from me. You can still ping this user manually, unless they have blocked you."}
+"ping admin": "Sorry, admin pinging via bots is disabled for this server. You can still ping an admin user manually, unless they have blocked you."}
